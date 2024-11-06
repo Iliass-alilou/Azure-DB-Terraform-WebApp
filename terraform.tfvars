@@ -1,0 +1,8 @@
+resource_group_name     = "ial-rg-terraform-web-sql-db"
+resource_group_location = "westeurope"
+app_service_plan_name   = "ial-appserviceplan-web-21"
+app_service_name        = "ial-terraform-web-021"
+sql_server_name         = "ial-terraform-sqlserver-021"
+sql_database_name       = "ial-ProductsDB"
+sql_admin_login         = "ialuser01"
+sql_admin_password      = "ial@Aa123456789!"
